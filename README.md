@@ -7,7 +7,7 @@
 
 <img src="./assets/avatar.png" alt="avatar" width="120" style="border-radius:50%; border: 3px solid #F0C9D6;"/>
 
-<h1>Jessy</h1>
+<h1>Sorn Sovannphakrakny</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=1000&color=C99BB8&center=true&vCenter=true&width=460&lines=Computer+Science+Student;Full-Stack+Developer;Phnom+Penh%2C+Cambodia" alt="typing-svg"/>
 
