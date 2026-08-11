@@ -95,8 +95,8 @@ Group project implementing customer and transaction management using singly link
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-FADCE0?style=for-the-badge&logo=gmail&logoColor=8A7A85&labelColor=FFF6F8)](mailto:youremail@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6D9F2?style=for-the-badge&logo=linkedin&logoColor=8A7A85&labelColor=FFF6F8)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-FADCE0?style=for-the-badge&logo=gmail&logoColor=8A7A85&labelColor=FFF6F8)](mailto:sornsovannphakrakny@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6D9F2?style=for-the-badge&logo=linkedin&logoColor=8A7A85&labelColor=FFF6F8)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sorn-sovannphakrakny-b1ab18383/))
 
 </div>
 
