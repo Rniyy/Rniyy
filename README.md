@@ -60,9 +60,13 @@ Group project implementing customer and transaction management using singly link
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
+<br/>
+
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #FFF6F8, #F0C9D6, #E6D9F2, #FFF6F8);">
+
+<br/>
 
 ## Tech Stack
 
@@ -76,13 +80,9 @@ Group project implementing customer and transaction management using singly link
 
 ## GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&theme=cobalt2&hide_border=true&bg_color=FFF6F8&title_color=C99BB8&icon_color=C99BB8&text_color=8A7A85" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&theme=cobalt2&hide_border=true&bg_color=FFF6F8&title_color=C99BB8&text_color=8A7A85" height="165"/>
-</div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rniyy&theme=default&hide_border=true&background=FFF6F8&ring=E6A8B5&fire=E6A8B5&currStreakLabel=C99BB8&sideLabels=8A7A85&dates=8A7A85"/>
+<img src="https://streak-stats.demolab.com/?user=Rniyy&theme=default&hide_border=true&background=FFF6F8&ring=E6A8B5&fire=E6A8B5&currStreakLabel=C99BB8&sideLabels=8A7A85&dates=8A7A85"/>
 </div>
 
 <br/>
@@ -96,7 +96,7 @@ Group project implementing customer and transaction management using singly link
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-FADCE0?style=for-the-badge&logo=gmail&logoColor=8A7A85&labelColor=FFF6F8)](mailto:sornsovannphakrakny@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6D9F2?style=for-the-badge&logo=linkedin&logoColor=8A7A85&labelColor=FFF6F8)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sorn-sovannphakrakny-b1ab18383/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6D9F2?style=for-the-badge&logo=linkedin&logoColor=8A7A85&labelColor=FFF6F8)](https://www.linkedin.com/in/sorn-sovannphakrakny-b1ab18383/)
 
 </div>
 
