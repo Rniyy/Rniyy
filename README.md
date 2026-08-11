@@ -42,7 +42,7 @@
 <td width="50%" valign="top">
 
 ### JESI-COSMETIC
-[View repository](https://github.com/Rniyy/jesi-cosmetic)
+[View repository](https://github.com/Rniyy/JESI-COSMETIC-Website.git)
 
 Full-stack K-beauty e-commerce platform with a desktop client. Includes a complete order lifecycle, an admin analytics dashboard, and JWT/bcrypt authentication with role-based access control.
 
