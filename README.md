@@ -51,7 +51,7 @@ Full-stack K-beauty e-commerce platform with a desktop client. Includes a comple
 </td>
 <td width="50%" valign="top">
 
-### DSA Library Management System
+### The Wonderful Library Management System
 [View repository](https://github.com/Rniyy/library-management-system)
 
 Group project implementing customer and transaction management using singly linked lists, following strict course-defined function conventions with full file persistence.
