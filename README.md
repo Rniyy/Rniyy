@@ -81,7 +81,7 @@ Group project implementing customer and transaction management using singly link
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rniyy&theme=default&hide_border=true&background=FFF6F8&ring=E6A8B5&fire=E6A8B5&currStreakLabel=C99BB8&sideLabels=8A7A85&dates=8A7A85"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rniyy&theme=default&hide_border=true&background=FFF6F8&ring=E6A8B5&fire=E6A8B5&currStreakLabel=C99BB8&sideLabels=8A7A85&dates=8A7A85" />
 </div>
 
 <br/>
