@@ -44,7 +44,7 @@
 ### JESI-COSMETIC
 [View repository](https://github.com/Rniyy/JESI-COSMETIC-Website.git)
 
-Full-stack K-beauty e-commerce platform with a desktop client. Includes a complete order lifecycle, an admin analytics dashboard, and JWT/bcrypt authentication with role-based access control.
+Personal project developing a full-stack skincare e-commerce platform with product, customer, cart, order, inventory, and review management. Implemented RESTful APIs, JWT authentication, role-based access control, database transactions, admin analytics and coupon management.
 
 <sub>`Node.js` `Express` `MySQL` `Electron` `Docker`</sub>
 
@@ -54,7 +54,7 @@ Full-stack K-beauty e-commerce platform with a desktop client. Includes a comple
 ### The Wonderful Library Management System
 [View repository](https://github.com/Rniyy/library-management-system)
 
-Group project implementing customer and transaction management using singly linked lists, following strict course-defined function conventions with full file persistence.
+Personal project implementing library member, book, and transaction management using singly linked lists, following strict course-defined function conventions and supporting persistent file storage for saving and retrieving data.
 
 <sub>`C++` `Data Structures` `File I/O`</sub>
 
@@ -81,7 +81,14 @@ Group project implementing customer and transaction management using singly link
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rniyy&theme=default&hide_border=true&background=FFF6F8&ring=E6A8B5&fire=E6A8B5&currStreakLabel=C99BB8&sideLabels=8A7A85&dates=8A7A85" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&theme=default&hide_border=true&bg_color=FFF6F8&title_color=C99BB8&text_color=8A7A85&icon_color=E6A8B5" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&hide_border=true&bg_color=FFF6F8&title_color=C99BB8&text_color=8A7A85" alt="top languages" height="165"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Rniyy/Rniyy/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+
 </div>
 
 <br/>
