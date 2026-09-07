@@ -78,14 +78,9 @@ Personal project implementing library member, book, and transaction management u
 
 <br/>
 
-## GitHub Stats
+## contributions 
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&theme=default&hide_border=true&bg_color=FFF6F8&title_color=C99BB8&text_color=8A7A85&icon_color=E6A8B5" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&hide_border=true&bg_color=FFF6F8&title_color=C99BB8&text_color=8A7A85" alt="top languages" height="165"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/Rniyy/Rniyy/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 
