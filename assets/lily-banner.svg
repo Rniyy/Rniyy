@@ -63,7 +63,25 @@
   <!-- soft glows behind the lilies -->
   <circle cx="130" cy="140" r="150" fill="url(#glow)"/>
   <circle cx="770" cy="140" r="150" fill="url(#glow)"/>
+<style>
+  .banner-bg {
+    fill: #ffffff;
+  }
 
+  .banner-text {
+    fill: #222222;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .banner-bg {
+      fill: #151515;
+    }
+
+    .banner-text {
+      fill: #e9bbbb;
+    }
+  }
+</style>
   <!-- left lilies -->
   <g transform="translate(130,140) scale(1.3)">
     <g>
