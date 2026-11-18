@@ -48,27 +48,20 @@ I work in logistics, so I think in flows: orders, documents, inventory, handoffs
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&hide_border=true&bg_color=00000000&title_color=f4b5bb&icon_color=e8888f&text_color=f0d5d7&ring_color=e8888f">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&hide_border=true&bg_color=00000000&title_color=6b2c3a&icon_color=c9697a&text_color=4a2a30&ring_color=c9697a">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&hide_border=true&bg_color=00000000&title_color=6b2c3a&icon_color=c9697a&text_color=4a2a30&ring_color=c9697a" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&hide_border=true&bg_color=00000000&title_color=a8505e&icon_color=d9808c&text_color=8a5a62&ring_color=d9808c">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&hide_border=true&bg_color=00000000&title_color=a8505e&icon_color=d9808c&text_color=8a5a62&ring_color=d9808c" alt="GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&hide_border=true&bg_color=00000000&title_color=f4b5bb&text_color=f0d5d7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&hide_border=true&bg_color=00000000&title_color=6b2c3a&text_color=4a2a30">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&hide_border=true&bg_color=00000000&title_color=6b2c3a&text_color=4a2a30" alt="Top languages" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&hide_border=true&bg_color=00000000&title_color=a8505e&text_color=8a5a62">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&hide_border=true&bg_color=00000000&title_color=a8505e&text_color=8a5a62" alt="Top languages" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rniyy&background=00000000&hide_border=true&ring=e8888f&fire=f4b5bb&currStreakLabel=f4b5bb&sideLabels=f0d5d7&currStreakNum=fde4e4&sideNums=fde4e4&dates=b58a8f">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rniyy&background=00000000&hide_border=true&ring=c9697a&fire=e8888f&currStreakLabel=6b2c3a&sideLabels=4a2a30&currStreakNum=6b2c3a&sideNums=4a2a30&dates=8a5a62">
-  <img src="https://streak-stats.demolab.com?user=Rniyy&background=00000000&hide_border=true&ring=c9697a&fire=e8888f&currStreakLabel=6b2c3a&sideLabels=4a2a30&currStreakNum=6b2c3a&sideNums=4a2a30&dates=8a5a62" alt="Contribution streak" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rniyy&background=00000000&hide_border=true&ring=d9808c&fire=e8888f&currStreakLabel=a8505e&sideLabels=8a5a62&currStreakNum=a8505e&sideNums=8a5a62&dates=b58a8f">
+  <img src="https://streak-stats.demolab.com?user=Rniyy&background=00000000&hide_border=true&ring=d9808c&fire=e8888f&currStreakLabel=a8505e&sideLabels=8a5a62&currStreakNum=a8505e&sideNums=8a5a62&dates=b58a8f" alt="Contribution streak" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rniyy&bg_color=0d1117&color=f4b5bb&line=e8888f&point=fde4e4&area=true&area_color=c9697a&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rniyy&bg_color=ffffff&color=6b2c3a&line=c9697a&point=6b2c3a&area=true&area_color=e8888f&hide_border=true">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rniyy&bg_color=ffffff&color=6b2c3a&line=c9697a&point=6b2c3a&area=true&area_color=e8888f&hide_border=true" alt="Contribution graph" />
-</picture>
-
 
 </div>
 
