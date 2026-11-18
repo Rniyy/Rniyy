@@ -1,108 +1,67 @@
 <div align="center">
 
-<!-- Banner — replace with your own (1200x300 recommended) -->
-<img src="./assets/banner.png" alt="banner" width="100%"/>
+<img src="./assets/lily-banner.svg" alt="Jessy - developer, logistics operations, Phnom Penh" width="100%" />
 
-<br/><br/>
 
-<img src="./assets/avatar.png" alt="avatar" width="120" style="border-radius:50%; border: 3px solid #F0C9D6;"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-1a0b10?style=for-the-badge&logo=linkedin&logoColor=fbd5d8&labelColor=1a0b10&color=6b2c3a" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-1a0b10?style=for-the-badge&logo=gmail&logoColor=fbd5d8&labelColor=1a0b10&color=6b2c3a" alt="Email" /></a>
 
-<h1>Sorn Sovannphakrakny</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=16&duration=3000&pause=1000&color=C99BB8&center=true&vCenter=true&width=460&lines=Computer+Science+Student;Full-Stack+Developer;Phnom+Penh%2C+Cambodia" alt="typing-svg"/>
-
-<p>
-  <img src="https://img.shields.io/badge/status-building-FADCE0?style=for-the-badge&labelColor=FFF6F8&color=FADCE0"/>
-  <img src="https://img.shields.io/badge/currently-JESI--COSMETIC-E6D9F2?style=for-the-badge&labelColor=FFF6F8&color=E6D9F2"/>
-</p>
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 </div>
 
-<br/>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #FFF6F8, #F0C9D6, #E6D9F2, #FFF6F8);">
-
-<br/>
-
 ## About
 
-<table>
-<tr><td width="140"><b>Role</b></td><td>Operation Staff at S2 Global Logistics Co., Ltd.</td></tr>
-<tr><td><b>Education</b></td><td>Computer Science — full-stack development & data structures</td></tr>
-<tr><td><b>Languages</b></td><td>Khmer (native), English (upper-intermediate)</td></tr>
-<tr><td><b>Currently building</b></td><td>JESI-COSMETIC — a K-beauty e-commerce platform</td></tr>
-</table>
+I work in logistics, so I think in flows: orders, documents, inventory, handoffs. That mindset shows up in my code as clear data models, strict validation, and admin dashboards that real teams can run on. Outside of work, K-beauty and skincare are a quiet obsession, which is how my flagship project started.
 
-<br/>
+<div align="center">
+</div>
 
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### JESI-COSMETIC
-[View repository](https://github.com/Rniyy/JESI-COSMETIC-Website.git)
-
-Personal project developing a full-stack skincare e-commerce platform with product, customer, cart, order, inventory, and review management. Implemented RESTful APIs, JWT authentication, role-based access control, database transactions, admin analytics and coupon management.
-
-<sub>`Node.js` `Express` `MySQL` `Electron` `Docker`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### The Wonderful Library Management System
-[View repository](https://github.com/Rniyy/library-management-system)
-
-Personal project implementing library member, book, and transaction management using singly linked lists, following strict course-defined function conventions and supporting persistent file storage for saving and retrieving data.
-
-<sub>`C++` `Data Structures` `File I/O`</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #FFF6F8, #F0C9D6, #E6D9F2, #FFF6F8);">
-
-<br/>
 
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,express,mysql,postgres,vue,react,docker,electron,git" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,mysql,docker,electron,cpp,java,git,github,vscode&theme=dark&perline=7" alt="Tech stack" />
 
 </div>
 
-<br/>
+<table>
+  <tr><td width="160"><sub>INTERFACE</sub></td><td>HTML &nbsp;/&nbsp; CSS &nbsp;/&nbsp; JavaScript &nbsp;/&nbsp; Vue 3</td></tr>
+  <tr><td><sub>SERVER</sub></td><td>Node.js &nbsp;/&nbsp; Express &nbsp;/&nbsp; REST APIs &nbsp;/&nbsp; cookie-based auth</td></tr>
+  <tr><td><sub>DATA</sub></td><td>MySQL &nbsp;/&nbsp; schema design &nbsp;/&nbsp; Docker</td></tr>
+  <tr><td><sub>DESKTOP</sub></td><td>Electron</td></tr>
+  <tr><td><sub>FUNDAMENTALS</sub></td><td>C++ &nbsp;/&nbsp; Java &nbsp;/&nbsp; linked lists, BSTs, graphs</td></tr>
+</table>
 
-## contributions 
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Rniyy/Rniyy/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
-
+<div align="center">
+<img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
-<br/>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #FFF6F8, #F0C9D6, #E6D9F2, #FFF6F8);">
-
-<br/>
-
-## Contact
+## GitHub Stats
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-FADCE0?style=for-the-badge&logo=gmail&logoColor=8A7A85&labelColor=FFF6F8)](mailto:sornsovannphakrakny@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6D9F2?style=for-the-badge&logo=linkedin&logoColor=8A7A85&labelColor=FFF6F8)](https://www.linkedin.com/in/sorn-sovannphakrakny-b1ab18383/)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rniyy&show_icons=true&hide_border=true&bg_color=1a0b10&title_color=f4b5bb&icon_color=e8888f&text_color=f0d5d7&ring_color=e8888f" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rniyy&layout=compact&hide_border=true&bg_color=1a0b10&title_color=f4b5bb&text_color=f0d5d7" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Rniyy&background=1a0b10&hide_border=true&ring=e8888f&fire=f4b5bb&currStreakLabel=f4b5bb&sideLabels=f0d5d7&currStreakNum=fde4e4&sideNums=fde4e4&dates=b58a8f" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rniyy&bg_color=1a0b10&color=f4b5bb&line=e8888f&point=fde4e4&area=true&area_color=c9697a&hide_border=true" alt="Contribution graph" width="100%" />
+
 
 </div>
 
-<br/>
 
 <div align="center">
-<sub>Thanks for visiting my profile.</sub>
+
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/SEND_EMAIL-e8888f?style=for-the-badge&logo=gmail&logoColor=1a0b10&labelColor=e8888f&color=e8888f" alt="Send email" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/CONNECT-6b2c3a?style=for-the-badge&logo=linkedin&logoColor=fbd5d8&labelColor=6b2c3a&color=6b2c3a" alt="Connect on LinkedIn" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=B58A8F&center=true&vCenter=true&width=480&lines=Thanks+for+stopping+by.;Let's+build+something+together." alt="Closing line" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:e8888f,50:6b2c3a,100:1a0b10&section=footer" alt="footer" width="100%" />
+
 </div>
