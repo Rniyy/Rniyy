@@ -2,45 +2,7 @@
 
 <img src="./assets/lily-banner.svg" alt="Jessy - developer, logistics operations, Phnom Penh" width="100%" />
 
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-1a0b10?style=for-the-badge&logo=linkedin&logoColor=fbd5d8&labelColor=1a0b10&color=6b2c3a" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-1a0b10?style=for-the-badge&logo=gmail&logoColor=fbd5d8&labelColor=1a0b10&color=6b2c3a" alt="Email" /></a>
-
 <img src="./assets/divider.svg" alt="" width="100%" />
-
-</div>
-
-## About
-
-I work in logistics, so I think in flows: orders, documents, inventory, handoffs. That mindset shows up in my code as clear data models, strict validation, and admin dashboards that real teams can run on. Outside of work, K-beauty and skincare are a quiet obsession, which is how my flagship project started.
-
-<div align="center">
-</div>
-
-
-## Tech Stack
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,mysql,docker,electron,cpp,java,git,github,vscode&theme=dark&perline=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,mysql,docker,electron,cpp,java,git,github,vscode&theme=light&perline=7">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,mysql,docker,electron,cpp,java,git,github,vscode&theme=light&perline=7" alt="Tech stack" />
-</picture>
-
-</div>
-
-<table>
-  <tr><td width="160"><sub>INTERFACE</sub></td><td>HTML &nbsp;/&nbsp; CSS &nbsp;/&nbsp; JavaScript &nbsp;/&nbsp; Vue 3</td></tr>
-  <tr><td><sub>SERVER</sub></td><td>Node.js &nbsp;/&nbsp; Express &nbsp;/&nbsp; REST APIs &nbsp;/&nbsp; cookie-based auth</td></tr>
-  <tr><td><sub>DATA</sub></td><td>MySQL &nbsp;/&nbsp; schema design &nbsp;/&nbsp; Docker</td></tr>
-  <tr><td><sub>DESKTOP</sub></td><td>Electron</td></tr>
-  <tr><td><sub>FUNDAMENTALS</sub></td><td>C++ &nbsp;/&nbsp; Java &nbsp;/&nbsp; linked lists, BSTs, graphs</td></tr>
-</table>
-
-<div align="center">
-<img src="./assets/divider.svg" alt="" width="100%" />
-</div>
 
 ## GitHub Stats
 
@@ -68,8 +30,8 @@ I work in logistics, so I think in flows: orders, documents, inventory, handoffs
 
 <div align="center">
 
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/SEND_EMAIL-e8888f?style=for-the-badge&logo=gmail&logoColor=1a0b10&labelColor=e8888f&color=e8888f" alt="Send email" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/CONNECT-6b2c3a?style=for-the-badge&logo=linkedin&logoColor=fbd5d8&labelColor=6b2c3a&color=6b2c3a" alt="Connect on LinkedIn" /></a>
+<a href="mailto:sornsovannphakrakny@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-e8888f?style=for-the-badge&logo=gmail&logoColor=1a0b10&labelColor=e8888f&color=e8888f" alt="Send email" /></a>
+<a href="https://www.linkedin.com/in/sorn-sovannphakrakny-b1ab18383/"><img src="https://img.shields.io/badge/CONNECT-6b2c3a?style=for-the-badge&logo=linkedin&logoColor=fbd5d8&labelColor=6b2c3a&color=6b2c3a" alt="Connect on LinkedIn" /></a>
 
 <br/><br/>
 
